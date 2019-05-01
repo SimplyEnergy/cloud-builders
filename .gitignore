@@ -4,3 +4,4 @@
 .DS_Store
 /dotnet/examples/*/bin/**
 /dotnet/examples/*/obj/**
+.idea
